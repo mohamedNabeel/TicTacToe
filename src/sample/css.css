@@ -1,0 +1,32 @@
+
+.button {
+    -fx-background-color: #0054d9;
+    -fx-text-fill: White;
+    -fx-font-weight:bold ;
+    -fx-font-size: 25;
+}
+
+ #vbox {
+    -fx-background-color: #2e2e2e;
+}
+
+ .label{
+     -fx-font-size: 25;
+     -fx-font-weight: bold;
+     -fx-text-fill: #ffffff;
+ }
+
+ #pane{
+     -fx-background-color: #282727;
+ }
+
+
+
+ #grid{
+     -fx-background-color: #000000;
+ }
+
+ #buttons{
+     -fx-background-color: #52b788;
+     -fx-font-weight:bold;
+ }
